@@ -16,7 +16,7 @@
 
 ```Lua
 local ReplicatedStorage = game:GetService("ReplicatedStorage)
-local xN = require(ReplicatedStorage.Modules.EternityNum) -- replace with your path
+local xN = require(ReplicatedStorage.Modules.InfinityX) -- replace with your path
 ```
 ### Functions
 ```Lua
