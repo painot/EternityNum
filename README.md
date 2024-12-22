@@ -1,8 +1,8 @@
-# EternityNum2
+# HyperNum
 ## Description
 - Module that absolutely shatters Infinity
 - New limit surpasses 1e1e100 (10^10^100)
-- Total remake of EternityNum, no code is reused
+- This one's an absolute banger
   
 ## Features
 - Mathematical computation
