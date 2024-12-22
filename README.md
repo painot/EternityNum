@@ -1,4 +1,4 @@
-# HyperNum
+# InfinityX
 ## Description
 - Module that absolutely shatters Infinity
 - New limit surpasses 1e1e100 (10^10^100)
