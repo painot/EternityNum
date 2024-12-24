@@ -41,7 +41,7 @@ local xN = require(ReplicatedStorage.Modules.InfinityX) -- replace with your pat
 [❌] xN.floor(x) -- rounds x down to the nearest integer
 [❌] xN.ceil(x) -- rounds x up to the nearest integer
 [✔️] xN.round(x, decimals) -- rounds x to the specified number of decimal places
-[❌] xN.truncate(x, decimals) -- truncates x to the specified number of decimal places
+[❌] xN.trunc(x, decimals) -- truncates x to the specified number of decimal places
 [❌] xN.abs(x) -- calculates the absolute value of x
 [❌] xN.neg(x) -- returns the negation of x
 [❌] xN.isOdd(x) -- checks if x is an odd number
