@@ -16,7 +16,7 @@
 ### Setup
 
 ```Lua
-local ReplicatedStorage = game:GetService("ReplicatedStorage)
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local xN = require(ReplicatedStorage.Modules.InfinityX) -- replace with your path
 ```
 ### Functions
