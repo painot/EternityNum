@@ -8,6 +8,7 @@
 - Mathematical computation
 - Suffixes
 - Advanced mathemtical functions
+- Random math functions
 <p>More information under Usage</p>
 
   
@@ -50,7 +51,6 @@ xN.sum(values) -- calculates the sum of a list of numbers
 xN.product(values) -- calculates the product of a list of numbers
 xN.nCr(n, r) -- calculates combinations (n choose r)
 xN.nPr(n, r) -- calculates permutations (n permute r)
-xN.isSquare(x) -- checks if x is a perfect square
 xN.mode(values) -- finds the most frequent value(s) in a dataset
 xN.le(x, y) -- checks if x is less than y
 xN.me(x, y) -- checks if x is more than y
@@ -58,17 +58,19 @@ xN.leeq(x, y) -- checks if x is less than or equal to y
 xN.meeq(x, y) -- checks if x is more than or equal to y
 xN.fact(x) -- calculates the factorial of x
 xN.gamma(x) -- calculates the gamma function of x
-xN.erf(x) -- calculates the error function of x
-xN.beta(x, y) -- calculates the beta function for x and y
-xN.digamma(x) -- calculates the digamma function of x
-xN.zeta(x) -- calculates the Riemann zeta function of x
 xN.gcd(x, y) -- calculates the greatest common divisor of x and y
 xN.lcm(x, y) -- calculates the least common multiple of x and y
-xN.factorise(x) -- performs prime factorization of x
 xN.format(x) -- formats x for display with commas or scientific notation
 xN.lambertW(x) -- calculates the Lambert W function of x
+xN.code(values, factor) -- codes all values in a list by a factor
+xN.midpoint(x1, x2) -- calculate the midpoint between two numbers
+xN.pythag(x, y) -- calculate hypotenuse of triangle
 ```
-All functions will return their value in the form of `{x, y, z}`
+All arithmetic functions will return their value in the form of `{x, y, z}`
+<br>
+All others/physics/ranged functions will return integers or booleans
+
+<br>
 <br>
 
 **Stable release expected to come out July 2025**
