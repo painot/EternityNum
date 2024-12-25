@@ -66,6 +66,9 @@ local xN = require(ReplicatedStorage.Modules.InfinityX) -- replace with your pat
 [✔️] xN.code(values, factor) -- codes all values in a list by a factor
 [✔️] xN.decode(values, factor) -- decodes all values in a list by a factor
 [✔️] xN.midpoint_num(x, y) -- calculate the midpoint between two numbers
+[❌] xN.sec(deg) -- 1/cos(x)
+[❌] xN.csc(deg) -- 1/sin(x)
+[❌] xN.cot(deg) -- 1/tan(x) OR cos(x)/sin(x)
 ```
 All arithmetic functions will return their value in the form of `{x, y, z}`
 <br>
